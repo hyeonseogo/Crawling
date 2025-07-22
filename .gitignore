@@ -1,3 +1,5 @@
 venv/
 .env
 downloads/
+banapresso_store_with_coords.csv
+starbucks_seoul.csv
